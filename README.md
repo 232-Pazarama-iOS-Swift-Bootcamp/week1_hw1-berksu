@@ -14,6 +14,7 @@
 ***                  ***    *** *********** ***    *** *********** ***    *** ***********     
 ***                  ***    *** *********** ***    *** *********** ***    *** ***********     
 
+```
 
 In this homework, I developed a mood bazaar where people can buy new mood(s) from antique Greek Gods. This is a console application.
 
