@@ -1,3 +1,35 @@
+# Week 1 Homework 1
+
+    ******  ***                  ***    *** *********** ***    *** *********** ***    *** ***********     ******
+    ******  ***                  ***    *** *********** ***    *** *********** ***    *** ***********     ******
+    ******  *** ***          *** ***    ***             ***    ***             ***    ***            ***  ******
+    ******  *** ***          *** ***    ***             ***    ***             ***    ***            ***  ******
+    ******  ***    ***    ***    ***    ***             ***    ***             ***    ***            ***  ******
+    ******  ***    ***    ***    ***    ***             ***    ***             ***    ***            ***  ******
+    ******  ***        ***       ***    ***             ***    ***             ***    ***            ***  ******
+    ******  ***        ***       ***    ***             ***    ***             ***    ***            ***  ******
+    ******  ***                  ***    ***             ***    ***             ***    ***            ***  ******
+    ******  ***                  ***    ***             ***    ***             ***    ***            ***  ******
+    ******  ***                  ***    *** *********** ***    *** *********** ***    *** ***********     ******
+    ******  ***                  ***    *** *********** ***    *** *********** ***    *** ***********     ******
+
+
+In this homework, I developed a mood bazaar where people can buy new mood(s) from antique Greek Gods. This is a console application.
+
+Users sign in by entering information that can be shown in below:
+- name
+- gender
+- current mood
+- budget
+- promotion code
+
+After this step, user can use the app. In this app, user can see products, sellers, user's profile page, favourite lists and cart. Also, one can add products to their cart and they can pay it by using two different payment method which are credit card and mood payment method. If they prefer to buy it with credit card, unfortunately they cannot use the advantages of special promotions. 
+
+User can browse recommended moods for them. This recommendation system uses user's current mood. According to this mood, it suggests user a new mood to buy. And they can read some reviews about the moods.
+
+In conclusion, this assignment was done for practising some of swift fundementals. I used singeltons, enums, protocols, sturcts, extensions, generics and typecasting in this assignment.
+
+
 # week1_work1
 ilk ödev
 
